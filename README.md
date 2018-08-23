@@ -5,6 +5,7 @@
 hii here is rtcamp wordpress plugin challenge work, which i completed work as possible best of my knowledge and hardworks.
 
 working on site : http://35.200.176.251/
+https://github.com/saggy916/wordpressplugin-challenges-rtcamp/blob/master/lib/sitedemo.png
 
 slider challenge page using [shortcodes] : http://35.200.176.251/blog/ 
 
