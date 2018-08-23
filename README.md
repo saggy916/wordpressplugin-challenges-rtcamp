@@ -23,6 +23,10 @@ http://35.200.176.251/wp-admin/post-new.php
 
 ![custommetabox](https://user-images.githubusercontent.com/35985225/44525635-31f7e100-a6ff-11e8-91ac-0d355efb02e7.png)
 
+## plugins use for challenge 
+
+1. Recent-slider http://docs.wponlinesupport.com/wp-responsive-recent-post-slider/
+2. elementor https://elementor.com/
 
 
 
